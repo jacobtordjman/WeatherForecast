@@ -17,9 +17,7 @@ x64/
 *.rsp
 *.sdf
 *.ilk
-*.dll
 *.cache
 *.ilk
 *.log
-*.lib
 *.exp
