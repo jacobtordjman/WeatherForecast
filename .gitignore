@@ -1,0 +1,25 @@
+# Ignore Visual Studio temporary files, build results, and
+# include directory for personal API keys
+.vs/
+x64/
+*.user
+*.suo
+*.log
+*.obj
+*.exe
+*.pch
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.res
+*.rsp
+*.sdf
+*.ilk
+*.dll
+*.cache
+*.ilk
+*.log
+*.lib
+*.exp
