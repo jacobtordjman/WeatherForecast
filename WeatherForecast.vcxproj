@@ -27,6 +27,7 @@
     <ClCompile Include="include\imgui\imgui_tables.cpp" />
     <ClCompile Include="include\imgui\imgui_widgets.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\WeatherForecast.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\httplib.h" />
@@ -36,6 +37,7 @@
     <ClInclude Include="include\imgui\imgui.h" />
     <ClInclude Include="include\imgui\imgui_internal.h" />
     <ClInclude Include="include\json.hpp" />
+    <ClInclude Include="include\WeatherForecast.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
