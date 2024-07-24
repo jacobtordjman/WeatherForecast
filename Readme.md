@@ -92,7 +92,11 @@ WeatherForecast/
 ```
 
 ## Demonstration
-![Weather Forecast Demo](assets/Preview.mp4)
+
+
+https://github.com/user-attachments/assets/0adf48c7-c789-4901-8c8b-60c470ac59d2
+
+
 ```
 ```
 ## Contributing
