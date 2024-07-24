@@ -3,9 +3,7 @@
 x64/*
 !x64/Debug/
 !x64/Debug/*.dll
-assets/*
-assets/key.txt
-!assets
+key.txt
 *.user
 *.suo
 *.log
