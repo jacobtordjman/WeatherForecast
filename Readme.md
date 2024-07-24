@@ -92,7 +92,7 @@ WeatherForecast/
 ```
 
 ## Demonstration
-[Weather Forecast Demo](assets/Preview.mp4)
+![Weather Forecast Demo](assets/Preview.mp4)
 ```
 ```
 ## Contributing
