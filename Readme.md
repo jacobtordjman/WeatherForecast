@@ -2,6 +2,10 @@
 
 WeatherForecast is a graphical application that fetches and displays weather data for various cities. The application uses the OpenWeatherMap API to retrieve current weather data and displays it using ImGui with OpenGL and GLFW.
 
+## Preview
+
+https://github.com/user-attachments/assets/bd736fa2-885d-4236-8d55-563018f4af88
+
 ## Features
 
 - Select cities to fetch current weather data.
